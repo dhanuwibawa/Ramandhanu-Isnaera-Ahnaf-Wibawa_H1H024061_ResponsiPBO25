@@ -82,4 +82,7 @@ Menampilkan daftar seluruh latihan yang pernah dilakukan.
   7. Setelah selesai memilih bisa klik **Mulai Latihan** lagi untuk melihat hasilnya
   8. Lalu disitu akan muncul hasil dari latihan yang kita gunakan barusan 
   9. Jika ingin mengecek hasil riwayat kita bisa klik dibagian **Lihat Riwayat** disitu akan terlihat semua hasil yang kita mainkan tadi
+
   10. Setelah selesai kita bisa kembali ke halaman utama dengan klik **Kembali**
+ 
+  ![VideoPenjelasanAplikasiPOKECARE](https://github.com/user-attachments/assets/8727fb36-5e04-411f-b62e-262cc1d947c8)
