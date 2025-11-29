@@ -1,3 +1,4 @@
+## RESPONSI PBO - POKECARE (Psyduck)
 DATA DIRI
 
 Nama : Ramandhanu Isnaera Ahnaf Wibawa
@@ -5,7 +6,7 @@ Nim : H1H024061
 Shift awal : C
 Shift akhir : D
 
-**PENJELASAN SINGKAT KODE DAN APLIKASI**
+## PENJELASAN SINGKAT KODE DAN APLIKASI
 
 Deskripsi Singkat Aplikasi
 *PokeCare* adalah aplikasi web sederhana berbasis PHP murni untuk mensimulasikan:
@@ -72,7 +73,7 @@ Menampilkan daftar seluruh latihan yang pernah dilakukan.
   - HP before → after  
   - Waktu latihan  
 
-  **CARA MENJALANKAN APLIKASI**
+  ## CARA MENJALANKAN APLIKASI
   1. Buka Laragon
   2. Jalankan Laragon → klik **Start All**
   3. Buka browser dan ketik: **http://localhost/POKECARE/**
