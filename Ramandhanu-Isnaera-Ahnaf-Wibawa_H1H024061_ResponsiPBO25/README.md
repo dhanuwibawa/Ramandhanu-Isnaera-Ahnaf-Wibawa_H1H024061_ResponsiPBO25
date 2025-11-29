@@ -28,7 +28,7 @@ Mengatur atribut umum Pokémon:
 - Speed  
 - Special Move  
 
-Fitur utama:
+Fitur :
 
 - **Fungsi train()** → mengubah stat Pokémon berdasarkan jenis latihan  
 - Menyimpan kondisi "before" dan "after" sebagai riwayat  
@@ -86,3 +86,4 @@ Menampilkan daftar seluruh latihan yang pernah dilakukan.
   10. Setelah selesai kita bisa kembali ke halaman utama dengan klik **Kembali**
  
   ![VideoPenjelasanAplikasiPOKECARE](https://github.com/user-attachments/assets/8727fb36-5e04-411f-b62e-262cc1d947c8)
+
