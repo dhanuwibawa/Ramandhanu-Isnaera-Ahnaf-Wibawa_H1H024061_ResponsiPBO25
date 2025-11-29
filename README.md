@@ -86,4 +86,5 @@ Menampilkan daftar seluruh latihan yang pernah dilakukan.
   10. Setelah selesai kita bisa kembali ke halaman utama dengan klik **Kembali**
 
 ## Demo Singkat
-  ![VideoPenjelasanAplikasiPOKECARE](https://github.com/user-attachments/assets/ce9efa32-e4ce-439c-bbc7-7dc5da82ee7c)
+![VideoPokecare](https://github.com/user-attachments/assets/321cc182-860e-44b2-881c-d214b860cb8a)
+
